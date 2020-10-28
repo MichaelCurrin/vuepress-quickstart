@@ -2,6 +2,20 @@
 > Starter template for a VuePress project
 
 
+<div align="center">
+
+[![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge&logo=github)](https://github.com/MichaelCurrin/node-project-template/generate)
+
+</div>
+
+
+## Preview
+
+<div align="center">
+    <img src="/sample.png" alt="Sample screenshot" title="Sample screenshot" />
+</div>
+
+
 ## How to use this project
 
 Install Node.js and Yarn.
