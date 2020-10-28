@@ -1,0 +1,15 @@
+{
+  "name": "vuepress-quickstart",
+  "description": "Starter template for a VuePress project",
+  "version": "0.0.1",
+  "author": "MichaelCurrin",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
