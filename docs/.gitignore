@@ -1,11 +1,14 @@
-pids
-logs
-node_modules
+node_modules/
+
+dist/
+
+# These come from the auto-generated app so may not be relevant for your app.
+logs/
 npm-debug.log
+
+pids/
 coverage/
-run
-dist
-.DS_Store
+run/
 .nyc_output
 .basement
 config.local.js
