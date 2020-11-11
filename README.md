@@ -1,6 +1,8 @@
 # VuePress Quickstart
 > Starter template for a VuePress project
 
+[![Made with Node](https://img.shields.io/badge/Node.js->=12-blue?logo=node.js&logoColor=white)](https://nodejs.org)
+
 
 <div align="center">
 
