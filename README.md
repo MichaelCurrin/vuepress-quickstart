@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
 [![Made with Node](https://img.shields.io/badge/Node.js->=12-blue?logo=node.js&logoColor=white)](https://nodejs.org)
+[![Made with Yarn](https://img.shields.io/badge/Yarn->=1-blue?logo=yarn&logoColor=white)](https://classic.yarnpkg.com)
 [![dependency - vuepress](https://img.shields.io/badge/dependency-vuepress-blue)](https://www.npmjs.com/package/vuepress)
 
 
