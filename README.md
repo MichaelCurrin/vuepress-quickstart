@@ -23,9 +23,22 @@
 </div>
 
 
+## Why VuePress?
+
+From the homepage:
+
+> Simplicity First - Minimal setup with **markdown-centered** project structure helps you focus on writing.
+>
+> Vue-Powered - Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
+>
+> Performant - VuePress generates pre-rendered **static HTML** for each page, and runs as an **SPA** once a page is loaded.
+
+To learn more about VuePress, see my [Resources](https://michaelcurrin.github.io/dev-resources/resources/javascript/packages/vuepress/) page.
+
+
 ## How to use this project
 
-Install Node.js and Yarn.
+Install Node.js and Yarn - see [instructions](https://gist.github.com/bdc34c554fa3023ee81449eb77375fcb).
 
 Create a new project from this template.
 
@@ -35,11 +48,13 @@ Clone it.
 $ cd docs
 ```
 
+Install project packages.
+
 ```sh
 $ yarn install
 ```
 
-Start dev server.
+Start a dev server.
 
 ```sh
 $ yarn dev
@@ -52,12 +67,6 @@ $ yarn build
 ```
 
 The output will be at `docs/src/dist/`.
-
-
-## Resources
-
-- [Introduction](https://vuepress.vuejs.org/guide/)
-- [Getting Started](https://vuepress.vuejs.org/guide/getting-started.html)
 
 
 ## Create a fresh project
