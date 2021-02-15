@@ -15,6 +15,9 @@
     <img src="/sample.png" alt="Sample screenshot" title="Sample screenshot" />
 </div>
 
+
+## Start your VuePress project
+
 Get a project like this one.
 
 <div align="center">
@@ -95,7 +98,6 @@ You can use the create commands without having to install any packages globally.
     ```sh
     $ yarn create vuepress-site my-app
     ```
-
 
 ## License
 
