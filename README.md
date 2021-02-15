@@ -9,17 +9,18 @@
 [![dependency - vuepress](https://img.shields.io/badge/dependency-vuepress-blue)](https://www.npmjs.com/package/vuepress)
 
 
-<div align="center">
-
-[![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/vuepress-quickstart/generate)
-
-</div>
-
-
 ## Preview
 
 <div align="center">
     <img src="/sample.png" alt="Sample screenshot" title="Sample screenshot" />
+</div>
+
+Get a project like this one.
+
+<div align="center">
+
+[![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/vuepress-quickstart/generate)
+
 </div>
 
 
