@@ -46,7 +46,12 @@ Create a new project from this template.
 
 Clone it.
 
-Then:
+```sh
+$ git clone git@github.com:MichaelCurrin/vuepress-quickstart.git
+$ cd vuepress-quickstart
+```
+
+All the content is in `docs`, so navigate there.
 
 ```sh
 $ cd docs
@@ -64,7 +69,7 @@ Start a dev server.
 $ yarn dev
 ```
 
-Build the site.
+Build the site to an output directory. This can be served as static assets.
 
 ```sh
 $ yarn build
