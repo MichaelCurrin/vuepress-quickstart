@@ -25,6 +25,8 @@
 
 ## Why VuePress?
 
+Build a modern, static website using markdown for content. Great for a docs site.
+
 From the homepage:
 
 > Simplicity First - Minimal setup with **markdown-centered** project structure helps you focus on writing.
@@ -43,6 +45,8 @@ Install Node.js and Yarn - see [instructions](https://gist.github.com/bdc34c554f
 Create a new project from this template.
 
 Clone it.
+
+Then:
 
 ```sh
 $ cd docs
@@ -71,7 +75,11 @@ The output will be at `docs/src/dist/`.
 
 ## Create a fresh project
 
-Make sure you have Node.js 10+ installed and optionally Yarn installed too. You can use the create command without installing any packages globally.
+Use VuePress' CLI tool to bootstrap a new project in a local directory. 
+
+Make sure you have Node.js 10+ installed and optionally Yarn installed too.
+
+You can use the create commands without having to install any packages globally.
 
 - Using NPM / NPX
     ```sh
