@@ -19,13 +19,15 @@
 
 ## Start your VuePress project
 
-Get a project like this one.
+Get a project like this one by clicking the button.
 
 <div align="center">
 
 [![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/vuepress-quickstart/generate)
 
 </div>
+
+Then follow the [Installation](#installation) and [Usage](#usage) instructions below.
 
 
 ## Why VuePress?
@@ -41,6 +43,24 @@ From the homepage:
 > Performant - VuePress generates pre-rendered **static HTML** for each page, and runs as an **SPA** once a page is loaded.
 
 To learn more about VuePress, see my [Resources](https://michaelcurrin.github.io/dev-resources/resources/javascript/packages/vuepress/) page.
+
+
+## Create a fresh project
+
+Use the VuePress CLI tool to bootstrap a new project in a local directory. 
+
+Make sure you have Node.js 10+ installed and optionally Yarn installed too.
+
+These commands will work even if you don't have VuePress installed locally.
+
+- Using NPM / NPX:
+    ```sh
+    $ npx create-vuepress-site my-app
+    ```
+- Using Yarn:
+    ```sh
+    $ yarn create vuepress-site my-app
+    ```
 
 
 ## Installation
@@ -106,24 +126,6 @@ If you use a CI tool, you can have that build step happen in the cloud on a comm
 For Netlify, you can configure the site the build and target directory.
 
 For GitHub Actions, you can build the site and commit the result to `gh-pages` branch, which can be served with GitHub Pages.
-
-
-## Create a fresh project
-
-Use the VuePress CLI tool to bootstrap a new project in a local directory. 
-
-Make sure you have Node.js 10+ installed and optionally Yarn installed too.
-
-These commands will work even if you don't have VuePress installed locally.
-
-- Using NPM / NPX:
-    ```sh
-    $ npx create-vuepress-site my-app
-    ```
-- Using Yarn:
-    ```sh
-    $ yarn create vuepress-site my-app
-    ```
 
 
 ## License
