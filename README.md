@@ -13,7 +13,9 @@
 ## Preview
 
 <div align="center">
-    <img src="/sample.png" alt="Sample screenshot" title="Sample screenshot" width="500" />
+    <a href="https://michaelcurrin.github.io/vuepress-quickstart/">
+        <img src="/sample.png" alt="Sample screenshot" title="Sample screenshot" width="500" />
+    </a>
 </div>
 
 
