@@ -120,6 +120,8 @@ $ yarn dev
 
 ## Deploy
 
+### Build
+
 Build the site to an output directory.
 
 ```sh
@@ -130,11 +132,18 @@ The output path will be at `docs/src/.vuepress/dist/`.
 
 That output can then be served as static content of for a website.
 
+### CI
+
 If you use a CI tool, you can have that build step happen in the cloud on a commit.
 
-For Netlify, you can configure the site the build and target directory.
+For _GitHub Actions_, you can build the site and commit the result to `gh-pages` branch, which can be served with GitHub Pages. See [docs.yml](/.github/workflows/docs.yml) workflow.
 
-For GitHub Actions, you can build the site and commit the result to `gh-pages` branch, which can be served with GitHub Pages.
+1. Commit and push your repo.
+2. View the _Actions_ tab to check that that build pages.
+3. Go to your repo's Settings and enable GitHub Pages for the `docs` branch.
+4. View your site.
+
+For a _Netlify_ site, you can configure the site the build command and target directory. See my [Configure](https://michaelcurrin.github.io/code-cookbook/recipes/ci-cd/netlify/configure.html) guide.
 
 
 ## License
