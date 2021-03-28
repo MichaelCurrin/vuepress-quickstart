@@ -47,9 +47,11 @@ To learn more about VuePress, see my [Resources](https://michaelcurrin.github.io
 
 ## Create a fresh project
 
-Use the VuePress CLI tool to bootstrap a new project in a local directory.
+Here is how to the VuePress CLI tool to bootstrap a new project in a local directory.
 
-Make sure you have Node.js 10+ installed and optionally Yarn installed too.
+[![vuepress - create-vuepress-site](https://img.shields.io/static/v1?label=vuepress&message=create-vuepress-site&color=blue&logo=github)](https://github.com/vuepress/create-vuepress-site)
+
+Make sure you have Node.js 10+ installed and Yarn, if used below.
 
 These commands will work even if you don't have VuePress installed locally.
 
@@ -124,7 +126,7 @@ Build the site to an output directory.
 $ yarn build
 ```
 
-The output path will be at `docs/src/dist/`.
+The output path will be at `docs/src/.vuepress/dist/`.
 
 That output can then be served as static content of for a website.
 
