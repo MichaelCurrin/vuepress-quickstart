@@ -47,7 +47,7 @@ To learn more about VuePress, see my [Resources](https://michaelcurrin.github.io
 
 ## Create a fresh project
 
-Use the VuePress CLI tool to bootstrap a new project in a local directory. 
+Use the VuePress CLI tool to bootstrap a new project in a local directory.
 
 Make sure you have Node.js 10+ installed and optionally Yarn installed too.
 
@@ -61,6 +61,13 @@ These commands will work even if you don't have VuePress installed locally.
     ```sh
     $ yarn create vuepress-site my-app
     ```
+
+Then navigate to the app.
+
+```sh
+$ cd my-app
+$ cd docs
+```
 
 
 ## Installation
