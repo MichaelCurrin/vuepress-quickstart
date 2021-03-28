@@ -1,5 +1,5 @@
 # VuePress Quickstart
-> Starter template for a VuePress project
+> Starter template for a VuePress project - including CI for GH Pages hosting
 
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/vuepress-quickstart?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/vuepress-quickstart/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
