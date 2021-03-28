@@ -143,7 +143,7 @@ For _GitHub Actions_, you can build the site and commit the result to `gh-pages`
 3. Go to your repo's Settings and enable GitHub Pages for the `docs` branch.
 4. View your site.
 
-This project is setup to serve as a subpath on GitHub Pages, using `base` as per the [Config](https://vuepress.vuejs.org/config/) page of the docs.
+This project is setup to serve as a subpath on GitHub Pages, using `base` as per the [Config](https://vuepress.vuejs.org/config/) page of the docs. This is setup in [config.js](/docs/src/.vuepress/config.js).
 
 For a _Netlify_ site, you can configure the site the build command and target directory. See my [Configure](https://michaelcurrin.github.io/code-cookbook/recipes/ci-cd/netlify/configure.html) guide.
 
