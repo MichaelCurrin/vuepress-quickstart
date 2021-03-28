@@ -1,6 +1,7 @@
 # VuePress Quickstart
 > Starter template for a VuePress project - including CI for GH Pages hosting
 
+[![Deploy docs](https://github.com/MichaelCurrin/vuepress-quickstart/workflows/Deploy%20docs/badge.svg)](https://github.com/MichaelCurrin/vuepress-quickstart/actions?query=workflow:"Deploy+docs")
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/vuepress-quickstart?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/vuepress-quickstart/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
@@ -13,9 +14,15 @@
 ## Preview
 
 <div align="center">
-    <a href="https://michaelcurrin.github.io/vuepress-quickstart/">
-        <img src="/sample.png" alt="Sample screenshot" title="Sample screenshot" width="500" />
-    </a>
+
+<a href="https://michaelcurrin.github.io/vuepress-quickstart/">
+    <img src="/sample.png" alt="Sample screenshot" title="Sample screenshot" width="500" />
+</a>
+
+<br>
+
+[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://michaelcurrin.github.io/vuepress-quickstart/)
+
 </div>
 
 
@@ -142,8 +149,9 @@ For _GitHub Actions_, you can build the site and commit the result to `gh-pages`
 
 1. Commit and push your repo.
 2. View the _Actions_ tab to check that that build pages.
-3. Go to your repo's Settings and enable GitHub Pages for the `docs` branch.
-4. View your site.
+3. Go to your repo's _Settings_.
+4. Enable GitHub Pages for the project root on the `gh-pages` branch.
+5. View your site. e.g. https://michaelcurrin.github.io/vuepress-quickstart/
 
 This project is setup to serve as a subpath on GitHub Pages, using `base` as per the [Config](https://vuepress.vuejs.org/config/) page of the docs. This is setup in [config.js](/docs/src/.vuepress/config.js).
 
