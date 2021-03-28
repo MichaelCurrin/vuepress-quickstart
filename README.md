@@ -42,7 +42,7 @@ From the homepage:
 >
 > Performant - VuePress generates pre-rendered **static HTML** for each page, and runs as an **SPA** once a page is loaded.
 
-To learn more about VuePress, see my [Resources](https://michaelcurrin.github.io/dev-resources/resources/javascript/packages/vuepress/) page.
+To learn more about VuePress, the [Vuerpress](https://vuepress.vuejs.org/) homepage or my my [Vuepress resources](https://michaelcurrin.github.io/dev-resources/resources/javascript/packages/vuepress/) page.
 
 
 ## Create a fresh project
@@ -142,6 +142,8 @@ For _GitHub Actions_, you can build the site and commit the result to `gh-pages`
 2. View the _Actions_ tab to check that that build pages.
 3. Go to your repo's Settings and enable GitHub Pages for the `docs` branch.
 4. View your site.
+
+This project is setup to serve as a subpath on GitHub Pages, using `base` as per the [Config](https://vuepress.vuejs.org/config/) page of the docs.
 
 For a _Netlify_ site, you can configure the site the build command and target directory. See my [Configure](https://michaelcurrin.github.io/code-cookbook/recipes/ci-cd/netlify/configure.html) guide.
 
