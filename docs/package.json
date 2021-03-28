@@ -8,6 +8,7 @@
   "devDependencies": {
     "vuepress": "^1.5.3"
   },
+  "description": "Starter template for a VuePress project - including CI for GH Pages hosting",
   "author": "MichaelCurrin",
   "license": "MIT"
 }
