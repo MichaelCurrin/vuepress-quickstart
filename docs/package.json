@@ -1,6 +1,6 @@
 {
   "name": "vuepress-quickstart",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src"
