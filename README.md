@@ -10,6 +10,10 @@
 
 [![dependency - vuepress](https://img.shields.io/badge/dependency-vuepress-blue)](https://www.npmjs.com/package/vuepress)
 
+A template for a Vue-based docs site made with VuePress. So you can focus on your markdown content rather than code. This project includes a flow to use GH Actions for CI so you can get a auto-deploying GitHub Pages site for free.
+
+Great for turning a docs directory into a docs site. Or you can have a branched called `docs` which is independent of your main branch, to keep your app and docs independent.
+
 
 ## Preview
 
