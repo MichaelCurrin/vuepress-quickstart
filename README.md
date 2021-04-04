@@ -98,7 +98,7 @@ Install Node.js and Yarn - see [instructions](https://gist.github.com/bdc34c554f
 
 Create a new project from this template or the template repo.
 
-Clone the repo.
+Clone the repo:
 
 ```sh
 $ git clone git@github.com:MichaelCurrin/vuepress-quickstart.git
@@ -163,6 +163,12 @@ For _GitHub Actions_, you can build the site and commit the result to `gh-pages`
 This project is setup to serve as a subpath on GitHub Pages, using `base` as per the [Config](https://vuepress.vuejs.org/config/) page of the docs. This is setup in [config.js](/docs/src/.vuepress/config.js).
 
 For a _Netlify_ site, you can configure the site the build command and target directory. See my [Configure](https://michaelcurrin.github.io/code-cookbook/recipes/ci-cd/netlify/configure.html) guide.
+
+
+## Related projects
+
+- [![MichaelCurrin - nuxt-default-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=nuxt-default-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/nuxt-default-quickstart)
+- [![MichaelCurrin - vue-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=vue-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/vue-quickstart)
 
 
 ## License
