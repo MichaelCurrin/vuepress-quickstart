@@ -171,9 +171,13 @@ For a _Netlify_ site, you can configure the site the build command and target di
 
 ## Related projects
 
+- [![MichaelCurrin - docsify-js-template](https://img.shields.io/static/v1?label=MichaelCurrin&message=docsify-js-template&color=blue&logo=github)](https://github.com/MichaelCurrin/docsify-js-template)
+    - Template for a docs site made with Docsify, which is built on Vue. Config is even lighter than VuePress and there's no build step! Note that Docsify follows the SPA style, so you won't get the SEO benefits of a static site like with VuePress. Also, themes are limited in Docsify. 
 - [![MichaelCurrin - nuxt-default-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=nuxt-default-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/nuxt-default-quickstart)
+    - Template for a static made with Nuxt, which is built on Vue.
 - [![MichaelCurrin - vue-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=vue-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/vue-quickstart)
-
+    - Template for a Node app using Vue.
+    
 
 ## License
 
