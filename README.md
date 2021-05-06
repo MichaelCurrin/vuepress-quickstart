@@ -10,14 +10,6 @@
 
 [![dependency - vuepress](https://img.shields.io/badge/vuepress-1-blue)](https://www.npmjs.com/package/vuepress)
 
-A template for a site made with VuePress, a Vue-based static site generator. 
-
-This means you can focus on your markdown content rather than code and Google can crawl your site easily because it's all statically rendered content (unlike a traditional SPA approach for a Vue app). 
-
-This project includes a flow to use GH Actions for CI so you can get a auto-deploying GitHub Pages site for free.
-
-This is great for turning a docs directory into a docs site. Or you can have a branched called `docs` which is independent of your main branch, to keep your app and docs independent.
-
 
 ## Preview
 
@@ -33,6 +25,17 @@ This is great for turning a docs directory into a docs site. Or you can have a b
 [![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://michaelcurrin.github.io/vuepress-quickstart/)
 
 </div>
+
+
+## About
+
+A template for a site made with VuePress, a Vue-based static site generator. 
+
+This means you can focus on your markdown content rather than code and Google can crawl your site easily because it's all statically rendered content (unlike a traditional SPA approach for a Vue app). 
+
+This project includes a flow to use GH Actions for CI so you can get a auto-deploying GitHub Pages site for free.
+
+This is great for turning a docs directory into a docs site. Or you can have a branched called `docs` which is independent of your main branch, to keep your app and docs independent.
 
 
 ## Start your VuePress project
